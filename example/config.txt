@@ -1,0 +1,2 @@
+Prefix plugins/Sanger2Illumina/example
+Plugin Sanger2Illumina inputfile S12_R1.fastq outputfile S12_R1.illumina.fastq
